@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, i'm umut</h1>
 
-- 👑 [Silah Tarihi](https://silahtarihi.com)
+- tototo
 
 <h3>Social Media</h3>
 <p align="left">
