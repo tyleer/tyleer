@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, i'm umut</h1>
+<h1 align="center">umut</h1>
 
 - 
 
